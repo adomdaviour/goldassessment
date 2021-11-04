@@ -1,0 +1,55 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(238,226,220);
+}
+h2 {
+    color: rgb(18,60,105);
+    text-align: center;
+}
+#title {
+    color: rgb(172,59,97);
+    text-align: center;
+    background-color: rgb(237,199,183);
+    padding: 1em;
+}
+a {
+    color: rgb(198,107,61);
+}
+a:hover {
+    color: rgb(196,163,90)
+}
+#oldSchoolImage {
+    height: 300px;
+    width: auto;
+}
+.wrapper1 {
+    display:grid;
+    grid-template-columns: 80% 20%;
+    grid-gap: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#coolImage {
+    position: relative;
+}
+#imageSource {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    background-color: transparent;
+    color:white;
+}
+#intro {
+    text-align: center;
+}
+.wrapper2 {
+    display:grid;
+    grid-template-columns: 15% 45% 40%;
+    grid-gap: 20px;
+}
+.sectionHeader {
+    text-align: left;
+}
+.content {
+    margin: 35px;
+}
