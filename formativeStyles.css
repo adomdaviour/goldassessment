@@ -61,7 +61,7 @@ h2 {
     grid-template-columns: 60% 40%;
     grid-gap: 20px;
 }
-#carouselExampleSlidesOnly{
+#carouselExampleIndicators{
     height: 500px;
     width: 500px;
 }
