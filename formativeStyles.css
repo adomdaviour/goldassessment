@@ -44,6 +44,7 @@ h2 {
     display:grid;
     grid-template-columns: 15% 45% 40%;
     grid-gap: 20px;
+    padding-bottom: 50px
 }
 .sectionHeader {
     text-align: left;
@@ -54,6 +55,11 @@ h2 {
 .newSchoolImage {
     height: 300px;
     width: auto;
+}
+.wrapper3 {
+    display:grid;
+    grid-template-columns: 60% 40%;
+    grid-gap: 20px;
 }
 #carouselExampleSlidesOnly{
     height: 500px;
