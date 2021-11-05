@@ -61,4 +61,11 @@ h2 {
     grid-template-columns: 60% 40%;
     grid-gap: 20px;
 }
-.carousel-inner > .item > img { width:360px; height:360px; }
+.carousel {
+    width: 500px; 
+    height: 500px;
+}
+.carousel-inner > .item > img { 
+    width:360px; 
+    height:360px; 
+}
